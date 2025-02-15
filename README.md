@@ -19,9 +19,9 @@ Hệ thống Quản lý Tài Chính Cá Nhân là một nền tảng thông minh
 - Tự động hóa workflow: Sử dụng n8n để đồng bộ giao dịch ngân hàng và nhắc nhở tự động.
 
 ## Công nghệ sử dụng 
-Laravel
-MySQL
-Nextjs
-N8N
-Superset
+- Laravel
+- MySQL
+- Nextjs
+- N8N
+- Superset
 
